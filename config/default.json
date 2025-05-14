@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://whitneyxgunter77:q4w6jka5onbc9pU7@dev-connector-cluster.c7sdfyl.mongodb.net/?retryWrites=true&w=majority&appName=Dev-Connector-Cluster",
+    "jwtSecret": "9443235e9b5aade28074fc43d69226dcd3d12634d0e36c1791e38c9feee5822d",
+    "githubClientId": "Ov23lidTPhCBPyTeMLLv",
+    "githubSecret": "b260d8d78bc0e3b931db7eb862a296b184f3647a"
+}
